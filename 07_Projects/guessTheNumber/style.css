@@ -65,15 +65,15 @@ button {
 }
 
 .guesses {
-  background-color: #7a7a7a;
+  background-color: #8b8a8a;
 }
 
 #wrapper {
   box-sizing: border-box;
   text-align: center;
   width: 450px;
-  height: 550px;
-  background-color: #474747;
+  height: 650px;
+  background-color: #5a5959;
   color: #fff;
   font-size: 25px;
 }
